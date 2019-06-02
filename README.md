@@ -1,5 +1,5 @@
 # paper_keywords
-This package will show how to acquire some papers in some known journal websites
+This package will show how to acquire some papers in some known journal websites.
 Summary:
 Get the keywords and title of papers in the journals ----> count and collect the number and frequency of keywords in 2016-2018 in three journals---->analysis.
 
